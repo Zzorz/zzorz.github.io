@@ -1,0 +1,24 @@
+baseURL: https://blog.razyang.com/
+#defaultContentLanguage: zh
+#languageCode: zh-cn
+title: Misc
+theme: PaperMod
+params:
+  defaultTheme: auto
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowReadingTime: true
+  homeInfoParams:
+    Title: Hi
+    Content: Be Easy
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives
+    - identifier: tags
+      name: tags
+      url: /tags
+    - identifier: search
+      name: search
+      url: /search
