@@ -25,6 +25,3 @@ menu:
     - identifier: tags
       name: tags
       url: /tags
-    - identifier: search
-      name: search
-      url: /search
