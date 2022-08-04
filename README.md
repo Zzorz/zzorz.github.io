@@ -1,2 +1,1 @@
-# zzorz.github.io
-personal blog
+# personal blog
