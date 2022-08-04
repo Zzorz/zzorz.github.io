@@ -4,7 +4,13 @@ baseURL: https://blog.razyang.com/
 title: Misc
 theme: PaperMod
 params:
-  defaultTheme: auto
+  defaultTheme: dark
+  showtoc: true
+  tocopen: true
+  UseHugoToc: false
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   ShowReadingTime: true
