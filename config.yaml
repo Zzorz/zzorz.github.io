@@ -10,7 +10,6 @@ params:
   UseHugoToc: false
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
-  ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   ShowReadingTime: true
